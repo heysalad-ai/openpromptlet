@@ -1,0 +1,12 @@
+[
+  {
+    "file": "openpromptlet-top-v4.2-print.stl",
+    "source_filename": "OpenDotLet-codex-sticker-options/opendotlet-enclosure-v4.2-4enc-top-module-codex-sticker-print.stl",
+    "sha256": "cce015ae1c6a0d703b41765b7671f12e6ac19249d1653ec10e0e4fe8d3ae3b71"
+  },
+  {
+    "file": "openpromptlet-bottom-v5-print.stl",
+    "source_filename": "OpenDotLet-v5-modular/opendotlet-v5-top-module-bottom-shell-print.stl",
+    "sha256": "049ad68c8303ec11bc41d85d51ef89f192b550b59c1c088ad1922fd83cebb308"
+  }
+]

@@ -1,0 +1,12 @@
+part,quantity,purpose,status
+Waveshare ESP32-S3-Touch-LCD-1.46,1,412 x 412 LCD and screen controller,Tested board; not the AMOLED-1.43
+Axiometa Genesis Mini,1,Reads the four encoder modules,Tested prototype
+Axiometa AX22 rotary encoder module,4,Turn and press input,Tested prototype
+Compatible Axiometa module cables,4,Connect AX22 modules to labelled Genesis ports,Match the actual module connector and pinout
+USB-C data and power cables,2,One cable per controller board,USB-powered bench setup
+OpenPromptlet top v4.2 STL,1,Screen and encoder enclosure top,Prototype mesh; fit notes apply
+OpenPromptlet bottom v5 STL,1,Standalone controller bottom shell,Prototype mesh; fit notes apply
+6 x 2 mm disc magnets,6 optional,Three pairs retain the top and bottom per CAD,Unverified retention; dry-fit first
+Nonconductive removable assembly tape,As needed,Temporary prototype retention,Alternative while checking closure
+Encoder caps,4 optional,Finish the controls,Exact shaft fit not released
+Board mounting fixings and spacers,To be measured,Secure boards without stressing the PCB,Exact lengths and display bracket remain open

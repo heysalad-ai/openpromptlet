@@ -1,0 +1,21 @@
+# Build outputs and downloaded upstream sources
+firmware/screen/build*/
+firmware/screen/sdkconfig
+firmware/screen/sdkconfig.old
+firmware/screen/components/
+firmware/screen/main/EXIO/
+firmware/screen/main/I2C_Driver/
+firmware/screen/main/LCD_Driver/
+firmware/screen/main/LVGL_Driver/
+firmware/screen/main/PWR_Key/
+firmware/screen/main/Touch_Driver/
+__pycache__/
+.venv/
+.DS_Store
+# Device state and credentials are never release inputs
+*.bin
+*.log
+*.jsonl
+backups/
+update-keys/
+.env*

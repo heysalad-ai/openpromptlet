@@ -1,0 +1,8 @@
+menu "OpenDotlet demo"
+config OPENDOTLET_ENCODER_DEMO
+    bool "Build encoder-screen demo instead of sticker gallery"
+    default n
+config OPENDOTLET_WIFI_UPDATE
+    bool "Enable USB-provisioned authenticated Wi-Fi updates"
+    default n
+endmenu
