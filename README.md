@@ -1,10 +1,26 @@
-# OpenPromptlet
+# OpenPromptlet · Codex Edition
 
-A small controller. Yours to build.
+Make the work visible.
+
+![AI-retouched OpenPromptlet prototype with a round display and four knobs](docs/assets/openpromptlet-prototype-cutout.png)
+
+*Real prototype photo, AI-retouched to remove the background, cable and exposed board. Screen details may differ. [Unedited photo](https://openpromptlet.com/assets/prototype-original-01.jpg).*
 
 Four knobs, a round screen and a 3D-printed case. OpenPromptlet is the standalone control brick in the modular OpenDotlet project, built by HeySalad.
 
-[Landing page](https://openpromptlet-build.heysalad-5703.chatgpt.site) · [Parts list](hardware/parts-list.md) · [STL files](hardware/stl) · [Setup guide](docs/setup.md) · [Firmware](firmware)
+[Landing page](https://openpromptlet.com) · [Parts list](hardware/parts-list.md) · [STL files](hardware/stl) · [Setup guide](docs/setup.md) · [Firmware](firmware)
+
+## Follow the work
+
+“Open heysalad.ai and give me three improvements.”
+
+![Actual phone footage of the OpenPromptlet ESP32-S3 showing animated activity and browser-task checkpoints](docs/assets/openpromptlet-esp-demo.gif)
+
+Filmed on the actual prototype: the ESP32-S3 draws the moving dot and checkpoint ring while Codex uses the connected Windows browser. This is edited camera footage. The dot shows activity and the ring counts verified checkpoints; the computer runs Codex and its tools. Time/token ranges are estimates, and actual token usage was not reported.
+
+[Watch the demo](https://openpromptlet.com/#task-demo-title) · [Wider recording](https://openpromptlet.com/assets/openpromptlet-esp-wide.mp4) · [What was checked](docs/GREEN-DOT-DEMO.md)
+
+The display update was installed with a fresh full-flash backup and the previous active application preserved. Voice capture, speaker playback and a physical knob-triggered launch are not demonstrated in this recording.
 
 ## What works today
 
@@ -39,7 +55,7 @@ These are extension ideas. Prompt execution, AI integration and desktop automati
 | [`docs/setup.md`](docs/setup.md) | Assembly, build, USB installation and pairing |
 | [`docs/provenance.md`](docs/provenance.md) | Source checkpoints and known limits |
 
-A hardware demo video is still to be recorded. The landing page includes an illustrative browser preview.
+The landing page includes the actual ESP display footage above. A physical knob-triggered browser task with onboard voice is still to be recorded.
 
 ## Contribute
 
@@ -48,3 +64,7 @@ Issues and pull requests are welcome. Useful first contributions include a verif
 ## License
 
 Original project code, documentation and enclosure meshes: [MIT](LICENSE). Vendor support code is fetched separately and retains upstream terms; see [third-party notices](THIRD_PARTY_NOTICES.md) before redistributing firmware builds. Third-party marks are excluded. OpenPromptlet is an independent project.
+
+## Independence
+
+Codex Edition describes this community build. OpenPromptlet is an independent HeySalad project, not affiliated with, sponsored by, or endorsed by OpenAI. Hardware and software remain prototypes.
