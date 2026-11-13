@@ -14,11 +14,11 @@ Four knobs, a round screen and a 3D-printed case. OpenPromptlet is the standalon
 
 “Open heysalad.ai and give me three improvements.”
 
-![Actual phone footage of the OpenPromptlet ESP32-S3 showing animated activity and browser-task checkpoints](docs/assets/openpromptlet-esp-demo.gif)
+[![Full camera frame showing the connected computer and OpenPromptlet prototype](docs/assets/openpromptlet-esp-full-poster.jpg)](https://openpromptlet.com/assets/openpromptlet-esp-full.mp4)
 
-Filmed on the actual prototype: the ESP32-S3 draws the moving dot and checkpoint ring while Codex uses the connected Windows browser. This is edited camera footage. The dot shows activity and the ring counts verified checkpoints; the computer runs Codex and its tools. Time/token ranges are estimates, and actual token usage was not reported.
+Filmed on the actual prototype: the ESP32-S3 draws the moving dot and checkpoint ring while Codex uses the connected Windows browser. The main video is the full, uncut 2 minute 40 second camera recording, with the entire frame preserved and audio removed. The dot shows activity and the ring counts verified checkpoints; the computer runs Codex and its tools. Time/token ranges are estimates, and actual token usage was not reported.
 
-[Watch the demo](https://openpromptlet.com/#task-demo-title) · [Wider recording](https://openpromptlet.com/assets/openpromptlet-esp-wide.mp4) · [What was checked](docs/GREEN-DOT-DEMO.md)
+[Watch the demo](https://openpromptlet.com/#task-demo-title) · [Full, uncut video](https://openpromptlet.com/assets/openpromptlet-esp-full.mp4) · [What was checked](docs/GREEN-DOT-DEMO.md)
 
 The display update was installed with a fresh full-flash backup and the previous active application preserved. Voice capture, speaker playback and a physical knob-triggered launch are not demonstrated in this recording.
 

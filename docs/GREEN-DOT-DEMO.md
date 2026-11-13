@@ -4,7 +4,7 @@ The task: **“Open heysalad.ai and give me three improvements.”**
 
 On 13 November 2026, Codex used the Windows browser through the computer-use driver while OpenPromptlet displayed its live checkpoints. The ESP32-S3 drew the moving dot, checkpoint ring, current step and elapsed time. The host sent normalized state updates after the corresponding browser observations. The screen acknowledged counts 0, 1, 2, 3, 4 and 5. Completion followed the written findings, rather than a timer.
 
-The phone recording is `PXL_20261113_214341443.TS.mp4`, 160.064444 seconds. Published highlights keep original chronological order and show real LCD pixels. They are cropped, lightly brightened and silent; the screen animation is not composited onto the device. The full camera original remains on the Pixel and the transfer Mac. No microphone or speaker feature, physical knob launch, or reported actual token usage is demonstrated. Planned duration/token ranges are explicitly estimates.
+The phone recording is `PXL_20261113_214341443.TS.mp4`, 160.064444 seconds. The [published main video](https://openpromptlet.com/assets/openpromptlet-esp-full.mp4) preserves the entire camera frame and full recording from start to finish. It is scaled to 720 × 1280 and silent, with no cuts or crop; the screen animation is not composited onto the device. An earlier cropped GIF remains in the asset history but is no longer the primary demonstration. The full camera original remains on the Pixel and the transfer Mac. No microphone or speaker feature, physical knob launch, or reported actual token usage is demonstrated. Planned duration/token ranges are explicitly estimates.
 
 ## The browser checkpoints
 
