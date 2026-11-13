@@ -6,3 +6,7 @@ config OPENDOTLET_WIFI_UPDATE
     bool "Enable USB-provisioned authenticated Wi-Fi updates"
     default n
 endmenu
+
+config OPENPROMPTLET_ACTION_DEMO
+    bool "Project summary controller demo"
+    default n
